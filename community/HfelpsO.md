@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=ffffff&center=true&vCenter=true&width=435&lines=Era+só+um+pix...;e+eu+dormia+mansinho." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=ffffff&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Heitor+%3A)" />
 
 ```js
 import Estudante from "HfelpsO";
